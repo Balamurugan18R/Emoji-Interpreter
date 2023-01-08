@@ -2,7 +2,7 @@
 
 An app developed using React JS to interpret the meaning of various emojis.
 
-## Tech used:
+## Technologies used:
 1. HTML
 2. CSS
 3. JavaScript
